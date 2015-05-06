@@ -39,16 +39,16 @@
 ; =====================================================
 
 ;DeviceName = "Microsoft XBox Controller Type S"
-DeviceName = "USB Key"
+DeviceName = "Peachy Printer"
 ; Make sure "VID_" and "PID_" are always part of the strings below
 ;VendorID = "VID_045E"
 ;ProductID = "PID_0289"
-VendorID = "VID_0204"
-ProductID = "PID_6025"
-DeviceGUID = "{d35924d6-3e16-4a9e-9782-5524a4b79bac}"
+VendorID = "VID_16D0"
+ProductID = "PID_0AF3"
+DeviceGUID = "{44c4719d-1a17-49ed-9542-331ab3830218}"
 DeviceClassGUID = "{78a1c341-4539-11d3-b88d-00c04fad5171}"
 ; Date MUST be in MM/DD/YYYY format
-Date = "01/08/2010"
+Date = "04/22/2015"
 
 ; =====================================================
 ; ========== END USER CONFIGURABLE SECTION ============
